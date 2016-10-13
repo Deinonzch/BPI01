@@ -1,0 +1,9 @@
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\bin\Debug\ServerClient.exe.config
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\bin\Debug\ServerClient.exe
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\bin\Debug\ServerClient.pdb
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\obj\Debug\ServerClient.csprojResolveAssemblyReference.cache
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\obj\Debug\ServerClient.Form1.resources
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\obj\Debug\ServerClient.Properties.Resources.resources
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.GenerateResource.Cache
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\obj\Debug\ServerClient.exe
+c:\users\deino\documents\visual studio 2015\Projects\ServerClient\ServerClient\obj\Debug\ServerClient.pdb
